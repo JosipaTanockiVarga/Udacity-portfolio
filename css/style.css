@@ -88,3 +88,7 @@ a {
   color: #02b3e4;
   padding: 15px;
 }
+
+a:hover {
+  color: #a1869e;
+}
